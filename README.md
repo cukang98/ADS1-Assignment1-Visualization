@@ -26,8 +26,14 @@ This bar chart presents the distribution of different property types in the data
 ### Usage
 To run this project and generate the visualizations, make sure you have Python, Pandas, and Matplotlib installed on your local machine. You can customize and adapt the code to analyze other datasets or explore different aspects of the Singapore housing market.
 
-Credits
-Pandas - Data manipulation library
-Matplotlib - Data visualization library
-License
-This project is open-source and available under the MIT License.
+## Credits
+
+This project makes use of the following libraries:
+
+- [Pandas](https://pandas.pydata.org/) - Data manipulation library
+- [Matplotlib](https://matplotlib.org/) - Data visualization library
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
